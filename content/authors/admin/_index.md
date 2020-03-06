@@ -24,6 +24,7 @@ interests:
 - High Performance Computing
 - CPU-GPU Heterogeneous Computing
 - Parallel Programming Models and Runtime Systems
+- Distributed Deep Learning
 
 education:
   courses:
