@@ -1,6 +1,20 @@
 @font-face {
   font-family: 'Product Sans';
   font-style: normal;
-  font-weight: 400;
-  src: local('Product Sans'), url('fonts/product_sans.ttf');
+  font-weight: normal;
+  src: local('Product Sans Regular'), url('fonts/product_sans_regular.ttf');
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  font-style: italic;
+  font-weight: normal;
+  src: local('Product Sans Italic'), url('fonts/product_sans_italic.ttf');
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Product Sans Bold'), url('fonts/product_sans_bold.ttf');
 }
