@@ -2,10 +2,10 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Cabin|Roboto+Mono"
+google_fonts = "Roboto+Mono"
 
 # Font families
-heading_font = "Cabin"
-body_font = "Cabin"
-nav_font = "Cabin"
+heading_font = "Product Sans"
+body_font = "Product Sans"
+nav_font = "Product Sans"
 mono_font = "Roboto Mono"
