@@ -18,3 +18,7 @@
   font-weight: bold;
   src: local('Product Sans Bold'), url('fonts/product_sans_bold.ttf');
 }
+
+html {
+  font-family: 'Product Sans';
+}
