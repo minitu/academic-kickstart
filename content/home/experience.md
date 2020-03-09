@@ -18,27 +18,61 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant"
+  company = "Parallel Programming Laboratory, University of Illinois"
+  company_url = "http://charm.cs.illinois.edu"
+  location = "Urbana, Illinois"
+  date_start = "2016-08-15"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * GPU support in the Charm++ parallel programming system
+  * Heterogeneous, data-parallel distributed deep learning with data partitioning between CPU and GPU
+  * GPU-accelerated mini-apps: 2D Jacobi, Barnes-Hut N-body simulation, Adaptive Mesh Refinement (AMR)
+  * Low-overhead RDMA message transfer with Inifiniband Verbs API
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Center for Applied Scientific Computing, Lawrence Livermore National Laboratory"
+  company_url = "https://computing.llnl.gov/casc"
+  location = "Livermore, California"
+  date_start = "2019-05-15"
+  date_end = "2019-08-15"
+  description = """
+  * Performance modeling and optimization of GPU-accelerated Exascale Computing Project (ECP) proxy applications, including SW4lite and MiniFE
+  """
+
+[[experience]]
+  title = "Technology Research Intern"
+  company = "Walt Disney Animation Studios"
+  company_url = "https://www.disneyanimation.com"
+  location = "Burbank, California"
+  date_start = "2018-05-15"
+  date_end = "2018-08-15"
+  description = """
+  * Memory usage optimization via de-duplication in Hyperion, a parallel path-tracing based rendering framework
+  """
+
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Center for Manycore Programming, Seoul National University"
+  company_url = "http://aces.snu.ac.kr"
+  location = "Seoul, Korea"
+  date_start = "2015-06-01"
+  date_end = "2016-04-01"
+  description = """
+  * Development of Linux kernel module in distributed shared memory implementation of SnuCL, using RDMA
+  """
+
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Computer Systems and Platforms Laboratory, Seoul National University"
+  company_url = "https://csap.snu.ac.kr"
+  location = "Seoul, Korea"
+  date_start = "2015-02-01"
+  date_end = "2015-06-01"
+  description = """
+  * Development of Linux network driver in A2 operating system on Intel Single-chip Cloud Computer (SCC)
+  """
 
 +++
