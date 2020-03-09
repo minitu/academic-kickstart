@@ -3,7 +3,6 @@
   font-style: normal;
   font-weight: normal;
   src: local('Product Sans Regular'), url('fonts/product_sans_regular.ttf');
-  -webkit-font-smoothing: antialiased;
 }
 
 @font-face {
@@ -11,7 +10,6 @@
   font-style: italic;
   font-weight: normal;
   src: local('Product Sans Italic'), url('fonts/product_sans_italic.ttf');
-  -webkit-font-smoothing: antialiased;
 }
 
 @font-face {
@@ -19,5 +17,4 @@
   font-style: normal;
   font-weight: bold;
   src: local('Product Sans Bold'), url('fonts/product_sans_bold.ttf');
-  -webkit-font-smoothing: antialiased;
 }
