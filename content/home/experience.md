@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2016-08-15"
   date_end = ""
   description = """
+
   * GPU support in the Charm++ parallel programming system
   * Heterogeneous, data-parallel distributed deep learning with data partitioning between CPU and GPU
   * GPU-accelerated mini-apps: 2D Jacobi, Barnes-Hut N-body simulation, Adaptive Mesh Refinement (AMR)
@@ -39,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-15"
   date_end = "2019-08-15"
   description = """
+
   * Performance modeling and optimization of GPU-accelerated Exascale Computing Project (ECP) proxy applications, including SW4lite and MiniFE
   """
 
@@ -50,6 +52,7 @@ date_format = "Jan 2006"
   date_start = "2018-05-15"
   date_end = "2018-08-15"
   description = """
+
   * Memory usage optimization via de-duplication in Hyperion, a parallel path-tracing based rendering framework
   """
 
@@ -61,6 +64,7 @@ date_format = "Jan 2006"
   date_start = "2015-06-01"
   date_end = "2016-04-01"
   description = """
+
   * Development of Linux kernel module in distributed shared memory implementation of SnuCL, using RDMA
   """
 
@@ -72,6 +76,7 @@ date_format = "Jan 2006"
   date_start = "2015-02-01"
   date_end = "2015-06-01"
   description = """
+
   * Development of Linux network driver in A2 operating system on Intel Single-chip Cloud Computer (SCC)
   """
 
