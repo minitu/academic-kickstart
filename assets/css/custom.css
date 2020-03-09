@@ -18,10 +18,3 @@
   font-weight: bold;
   src: local('Product Sans Bold'), url('fonts/product_sans_bold.ttf');
 }
-
-html {
-  font-family: 'Product Sans';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
-}
